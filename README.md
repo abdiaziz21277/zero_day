@@ -1,1 +1,1 @@
-Hello World
+This file is mandatory in projects
